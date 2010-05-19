@@ -1,0 +1,1 @@
+config :patients, :required => [:sproutcore, :"sproutcore/animation", :forms]
